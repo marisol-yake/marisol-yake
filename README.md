@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 🛠️ 🚧 Work in Progress 🚧 🛠️
+
 <!-- Intro, Skills and Interests -->
 Hello and welcome to my Github profile! My name is Marikit Yake and I'm working on writing this intro.
 
