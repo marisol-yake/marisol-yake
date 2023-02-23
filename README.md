@@ -36,7 +36,7 @@ Hello and welcome to my Github profile! My name is Marikit Yake and I'm working 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!-- Github Stats -->
-[![Marikit's GitHub stats](https://github-readme-stats.vercel.app/api?username=marikit-yake&count_private=true)](https://github.com/marikit-yake/github-readme-stats)
+<!--[![Marikit's GitHub stats](https://github-readme-stats.vercel.app/api?username=marikit-yake&count_private=true)](https://github.com/marikit-yake/github-readme-stats) -->
+
 <!-- Current Projects -->
-<!-- Latest Blogs -->
 <!-- Contact Info, email or social media -->
