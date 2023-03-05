@@ -41,5 +41,9 @@ Hello and welcome to my Github profile! My name is Marikit Yake and I'm working 
 <!-- Github Stats -->
 <!--[![Marikit's GitHub stats](https://github-readme-stats.vercel.app/api?username=marikit-yake&count_private=true)](https://github.com/marikit-yake/github-readme-stats) -->
 
+### Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!-- Current Projects -->
 <!-- Contact Info, email or social media -->
