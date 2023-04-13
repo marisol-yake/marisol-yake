@@ -20,15 +20,14 @@ Here are some ideas to get you started:
 <!-- ![GitHub stars](https://img.shields.io/github/stars/marikit-yake?style=social) -->
 
 <!-- Intro, Skills and Interests -->
-Hello and welcome to my Github profile! My name is Marikit Yake and I'm working on writing this intro.
-<!--  Hello there! I'm Marikit Yake, my pronouns are she/they, and I'm currently working as an HCI Researcher at CU Boulder. Right now I'm studying how labor unions use data and information technology which I'm going to work into a paper draft. When I'm not reading or uploading my code here, you can find me sharing what I've learned on Medium! If you'd be interested in working together, please feel free to reach out! -->
+<!-- Hello and welcome to my Github profile! My name is Marikit Yake and I'm working on writing this intro. -->
+Hello there! I'm Marikit Yake, my pronouns are she/they, and I'm currently working as an HCI Researcher at CU Boulder. Right now I'm studying how labor unions use data and information technology which I'm turning into a paper draft. When I'm not reading something new or uploading my code here, you can find me sharing what I've learned on Medium! If you'd be interested in working together, please feel free to reach out!
 
 <!-- Badges (languages, etc) Code: Python, SQL, HTML -->
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 
 <!-- Tools: VSCode, Github, Git, Tableau, Figma, Canva -->
@@ -38,6 +37,7 @@ Hello and welcome to my Github profile! My name is Marikit Yake and I'm working 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<hr>
 <!-- Github Stats -->
 <!--[![Marikit's GitHub stats](https://github-readme-stats.vercel.app/api?username=marikit-yake&count_private=true)](https://github.com/marikit-yake/github-readme-stats) -->
 
