@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- Intro, Skills and Interests -->
 <!-- Hello and welcome to my Github profile! My name is Marikit Yake and I'm working on writing this intro. -->
-Hello there! I'm Marikit Yake, my pronouns are she/they, and I'm currently working as an HCI Researcher at CU Boulder. Right now I'm studying how labor unions use data and information technology which I'm turning into a paper draft. When I'm not reading something new or uploading my code here, you can find me sharing what I've learned on Medium! If you'd be interested in working together, please feel free to reach out!
+Hello there! I'm Marikit Yake, my pronouns are she/they, and I'm currently working as an HCI Researcher at CU Boulder. Right now I'm studying how labor unions use data and information technology to support labor power in the workplace, which I'm turning into a paper draft. When I'm not reading something new or uploading my code here, you can find me sharing what I've learned on Medium! If you'd be interested in working together, please feel free to reach out!
 
 <!-- Badges (languages, etc) Code: Python, SQL, HTML -->
 ### Languages:
