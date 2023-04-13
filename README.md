@@ -37,11 +37,10 @@ Hello there! I'm Marikit Yake, my pronouns are she/they, and I'm currently worki
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<hr>
 <!-- Github Stats -->
 <!--[![Marikit's GitHub stats](https://github-readme-stats.vercel.app/api?username=marikit-yake&count_private=true)](https://github.com/marikit-yake/github-readme-stats) -->
 
-### Blog Posts
+<!-- ### Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
