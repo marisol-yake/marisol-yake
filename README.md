@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 <!-- Hello and welcome to my Github profile! My name is Marikit Yake and I'm working on writing this intro. -->
 Hello there! I'm Marikit Yake, my pronouns are she/they, and I'm currently working as an HCI Researcher at CU Boulder with the [Philanthropic Informatics Research Lab (PIRL)](https://amy.voida.com/research-group/). Right now I'm studying how labor unions use data and information technology to support labor power in the workplace, which I'm turning into a paper draft. When I'm not reading something new or uploading my code here, you can find me sharing what I've learned on Medium! If you'd be interested in working together, please feel free to reach out!
 
+If you are interest in my work on Tableau Public, [click here.](https://public.tableau.com/app/profile/marikit.yake)
+
 <!-- Badges (languages, etc) Code: Python, SQL, HTML -->
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -38,7 +40,7 @@ Hello there! I'm Marikit Yake, my pronouns are she/they, and I'm currently worki
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!-- Github Stats -->
-<!--[![Marikit's GitHub stats](https://github-readme-stats.vercel.app/api?username=marikit-yake&count_private=true)](https://github.com/marikit-yake/github-readme-stats) -->
+[![Marikit's GitHub stats](https://github-readme-stats.vercel.app/api?username=marikit-yake&count_private=true)](https://github.com/marikit-yake/github-readme-stats)
 
 <!-- ### Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
