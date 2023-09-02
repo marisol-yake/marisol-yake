@@ -40,7 +40,7 @@ If you are interest in my work on Tableau Public, [click here.](https://public.t
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!-- Github Stats -->
-[![Marikit's GitHub stats](https://github-readme-stats.vercel.app/api?username=marikit-yake&count_private=true)](https://github.com/marikit-yake/github-readme-stats)
+<!-- [![Marikit's GitHub stats](https://github-readme-stats.vercel.app/api?username=marikit-yake&count_private=true)](https://github.com/marikit-yake/github-readme-stats) -->
 
 <!-- ### Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
