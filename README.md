@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- # 🛠️ 🚧 Work in Progress 🚧 🛠️ -->
-![GitHub followers](https://img.shields.io/github/followers/marikit-yake?style=social)<br>
+![GitHub followers](https://img.shields.io/github/followers/marisol-yake?style=social)<br>
 <!-- ![GitHub stars](https://img.shields.io/github/stars/marikit-yake?style=social) -->
 
 <!-- Intro, Skills and Interests -->
